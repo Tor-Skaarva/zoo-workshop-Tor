@@ -1,0 +1,43 @@
+h1 {
+    background-color: rgb(38, 136, 43);
+    color: chartreuse;
+    display: inline-block;
+}
+.vegtables{
+    background-color: green;
+    display: inline-block;
+
+}
+.pantrytitle
+{
+    color: antiquewhite;
+    background-color:grey;
+    width: 457px;
+}
+.snacks {
+    background-color: red;
+    display: inline-block;
+    width: 150px;
+}
+.pantryitems {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+}
+.freezertitle{
+    background-color: blue;
+    width:457px
+}
+.freezerfood1 {
+    background-color: rgb(84, 84, 216);
+    display: inline-block;  
+    width: 150px;
+}
+.freezerfood2 {
+    background-color: deepskyblue;
+    display: inline-block;
+    width: 150px;
+}
+.freezerimg {
+    display: inline-block;
+}
